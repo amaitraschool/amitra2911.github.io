@@ -1340,8 +1340,7 @@
 		/* Banner */
 
 			#banner-wrapper {
-				background: url(images/sjsquizbwl.jpg);
-				padding: 2em 0;
+				background: url(images/sjsquizbwl.jpg)
 			}
 
 			#banner {
